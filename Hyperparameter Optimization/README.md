@@ -8,4 +8,3 @@ In order to prove our point, we will introduce Optuna, an optimization software 
 We will present the design-techniques that became necessary in the development of the software that meets the above criteria, and demonstrate the power of our new design through experimental results and real world applications.
 
 Reference :- https://arxiv.org/abs/1907.10902v1
-https://github.com/optuna/optuna
