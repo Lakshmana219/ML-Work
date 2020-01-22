@@ -6,3 +6,6 @@ The criteria we propose include (1) define-by-run API that allows users to const
 In order to prove our point, we will introduce Optuna, an optimization software which is a culmination of our effort in the development of a next generation optimization software. As an optimization software designed with define-by-run principle, Optuna is particularly the first of its kind.
 
 We will present the design-techniques that became necessary in the development of the software that meets the above criteria, and demonstrate the power of our new design through experimental results and real world applications.
+
+Reference :- https://arxiv.org/abs/1907.10902v1
+https://github.com/optuna/optuna
